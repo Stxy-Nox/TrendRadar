@@ -7,95 +7,71 @@ DeepSeek
 华为
 鸿蒙
 HarmonyOS
-
-
+小米
 比亚迪
 BYD
-
-小米
+自动驾驶
+智能驾驶
 
 大疆
 DJI
 
+机器人
 宇树
 Unitree
 王兴兴
-
 智元
 稚晖君
 彭志辉
 
-
-
 黑神话
 冯骥
-
 影之刃零
 梁其伟
-
-
 
 三体
 流浪地球
 刘慈欣
 郭帆
-
+科幻
 
 特斯拉
 spacex
 马斯克
-
 微软
 Microsoft
-
 Meta
-
+扎克伯格
 Amazon
 
 英伟达
 NVIDIA
 黄仁勋
-
 AMD
+英特尔 
+Intel
+苹果 
+Apple
 
 谷歌
 google
 gemini
 deepmind
-
 chatgpt
 openai
 sora
-
 claude
 Anthropic
-
 ai
 !gai
 人工智能
 
-自动驾驶
-
-机器人
-
 国产
 中国
-
 美国
 日本
 韩国
 欧洲
-
-芯片
-光刻机
-
-科技
-
-核能
-核聚变
-
-水电站
-
 !球星
 !明星
 !球员
@@ -107,7 +83,15 @@ ai
 !足球
 !篮球
 
+量子
+芯片
+光刻机
+科技
+核能
+核聚变
+水电站
 新质生产力
+6G
 
 月球
 登月
@@ -119,6 +103,11 @@ ai
 太空
 空间站
 
+VR
+MR
+AR
+!米哈游
+
 Valve
 G胖
 V社
@@ -126,22 +115,5 @@ Steam
 Gabe
 
 
-英特尔 
-Intel
 
-
-苹果 
-Apple
-
-量子
-
-3D打印
-拓竹
-Bambu
-
-6G
-
-MR
-AR
-VR
 
